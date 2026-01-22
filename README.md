@@ -1,5 +1,4 @@
 # Rakshana-shabbir-ahamed-khan
-# Rakshana Shabbir Ahamed Khan
 
 🎓 MSc Applied Artificial Intelligence Student  
 🔬 Independent Researcher (AI & Machine Learning)  
